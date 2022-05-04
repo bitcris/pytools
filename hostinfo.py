@@ -3,7 +3,7 @@ import socket
 print("PYTHON SHELL v1.0\n")
 
 urll = input( 'DIGITE O ENDEREÇO DO HOST: ' )
-#A biblioteca sockert processa o https sozinha, a variável
+#A biblioteca socket processa o https sozinha, a variável
 #c1 é para usar o mesmo input no comabdo do requests
 #assim o usuário não precisa digitar novamente
 c1 = 'http://'
